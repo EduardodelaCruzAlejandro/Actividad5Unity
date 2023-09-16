@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Trash
+  - Car
+  - Coin
+  - Obstacle
   layers:
   - Default
   - TransparentFX
